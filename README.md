@@ -2,10 +2,12 @@
 <h2 align="center"><u>Recipe website</u></h2>
 
 ###  Description
-The Recipe website offers users a platform to register, create, upload, and edit their recipes, along with the ability to manage their profiles. Users can search for recipes and engage with content through features such as rating, reviews, and liking.
+This recipe website offers users a platform to register, create, upload, and edit their recipes, along with the ability to manage their profiles. Users can search for recipes and engage with content through features such as rating, reviews, and liking.
 <h2>💻 Built with</h2>
 Frontend: HTML, SASS, JavaScript
+
 Backend: PHP
+
 Server: Azure
 
 <h2>Project Screenshots:</h2>
